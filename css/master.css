@@ -1,0 +1,9 @@
+img {border:0px}
+a{text-decoration:none;}
+  .photo {
+    float: left;
+    margin: 0.5em;
+    border: 1px solid #ccc;
+    padding: 1em;
+    font-size: 10px;
+  }
